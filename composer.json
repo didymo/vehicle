@@ -1,0 +1,10 @@
+{
+  "name": "didymo/vehicle",
+  "type": "drupal-module",
+  "description": "Service Club manage inventory is a Drupal 8 module which provides a new custom entity, vehicle.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/didymo/vehicle",
+  "minimum-stability": "dev",
+  "require": { }
+}
